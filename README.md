@@ -1,240 +1,127 @@
-\# Low Carbon Sustainability Web Optimization System
-
-
+# Low Carbon Sustainability Web Optimization System
 
 A professional MCA-level web prototype focused on sustainable digital design and performance optimization. This project demonstrates how a Low Carbon Mode feature can reduce unnecessary heavy resource usage by replacing high-load visual content with lightweight placeholders while preserving user experience and layout consistency.
 
-
-
-\## 🌱 Project Overview
-
-
+## 🌱 Project Overview
 
 This system was designed to conceptually demonstrate how sustainability-focused web development practices can improve:
 
-
-
-\- Resource efficiency
-
-\- Page loading speed
-
-\- Browser performance
-
-\- User accessibility
-
-\- Digital carbon footprint reduction
-
-
+- Resource efficiency
+- Page loading speed
+- Browser performance
+- User accessibility
+- Digital carbon footprint reduction
 
 The project emphasizes responsible web design without compromising usability.
 
+## 🚀 Core Features
 
+- Low Carbon Mode toggle functionality
+- Heavy media replacement with lightweight placeholders
+- Responsive Bootstrap-based UI
+- Smooth transitions between modes
+- Performance Benefits section
+- Core Project Features section
+- Sustainability case study / workflow explanation
+- Professional GitHub portfolio structure
+- Academic and interview-ready documentation
 
-\---
+## 💻 Tech Stack
 
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 5
+- Git & GitHub
 
+## 🎯 Key Objectives
 
-\## 🚀 Core Features
+- Optimize visual resource consumption
+- Demonstrate sustainability-oriented web practices
+- Improve perceived website performance
+- Preserve layout consistency during optimization
+- Promote environmentally conscious digital systems
 
+## 📊 Project Workflow
 
-
-\- Low Carbon Mode toggle functionality
-
-\- Heavy media replacement with lightweight placeholders
-
-\- Responsive Bootstrap-based UI
-
-\- Smooth transitions between modes
-
-\- Performance Benefits section
-
-\- Core Project Features section
-
-\- Sustainability case study / workflow explanation
-
-\- Professional GitHub portfolio structure
-
-\- Academic and interview-ready documentation
-
-
-
-\---
-
-
-
-\## 💻 Tech Stack
-
-
-
-\- HTML5
-
-\- CSS3
-
-\- JavaScript
-
-\- Bootstrap 5
-
-\- Git \& GitHub
-
-
-
-\---
-
-
-
-\## 🎯 Key Objectives
-
-
-
-\- Optimize visual resource consumption
-
-\- Demonstrate sustainability-oriented web practices
-
-\- Improve perceived website performance
-
-\- Preserve layout consistency during optimization
-
-\- Promote environmentally conscious digital systems
-
-
-
-\---
-
-
-
-\## 📊 Project Workflow
-
-
-
-\### Problem:
+### Problem:
 
 Heavy web assets increase energy consumption, loading time, and browser resource usage.
 
-
-
-\### Solution:
+### Solution:
 
 Low Carbon Mode selectively reduces non-essential visual elements and replaces them with lightweight placeholders.
 
+### Outcome:
+
+- Faster loading
+
+- Lower resource usage
+
+- Better efficiency
+
+- Sustainable browsing experience
+
+## 📸 Screenshots
+
+### Normal Mode
+
+<img width="1862" height="825" alt="image" src="https://github.com/user-attachments/assets/07430ef8-5529-42fe-80ee-5814482614d3" />
 
 
-\### Outcome:
+### Low Carbon Mode
 
-\- Faster loading
-
-\- Lower resource usage
-
-\- Better efficiency
-
-\- Sustainable browsing experience
-
-
-
-\---
-
-
-
-\## 📸 Screenshots
-
-
-
-\### Normal Mode
-
-(Add normal mode screenshot here)
+<img width="1842" height="801" alt="image" src="https://github.com/user-attachments/assets/64501326-47f3-4789-9bff-a1d1d42ea0ae" />
 
 
 
-\### Low Carbon Mode
-
-(Add low carbon mode screenshot here)
-
-
-
-\---
-
-
-
-\## 📚 Learning Outcomes
-
-
+## 📚 Learning Outcomes
 
 Through this project, I strengthened my understanding of:
 
+- Front-end development
 
+- Responsive design
 
-\- Front-end development
+- Sustainability-focused optimization
 
-\- Responsive design
+- User experience preservation
 
-\- Sustainability-focused optimization
+- Performance-oriented implementation
 
-\- User experience preservation
+- GitHub project management
 
-\- Performance-oriented implementation
+- Academic software documentation
 
-\- GitHub project management
+## 🔮 Future Scope
 
-\- Academic software documentation
+- Dynamic analytics integration
 
+- Automated optimization based on user profile
 
+- Accessibility enhancements
 
-\---
+- Broader media optimization
 
+- Enterprise DXP adaptation concepts
 
-
-\## 🔮 Future Scope
-
-
-
-\- Dynamic analytics integration
-
-\- Automated optimization based on user profile
-
-\- Accessibility enhancements
-
-\- Broader media optimization
-
-\- Enterprise DXP adaptation concepts
-
-
-
-\---
-
-
-
-\## 🤝 Academic Context
-
-
+## 🤝 Academic Context
 
 This project was developed as part of MCA-level practical learning and OJT-inspired sustainability research, focusing on bridging academic concepts with modern industry-relevant digital practices.
 
-
-
-\---
-
-
-
-\## 📌 Repository Purpose
-
-
+## 📌 Repository Purpose
 
 This repository represents a practical demonstration of:
 
-\- Technical learning
+- Technical learning
 
-\- Sustainable web development
+- Sustainable web development
 
-\- Performance optimization
+- Performance optimization
 
-\- Professional project presentation
+- Professional project presentation
 
+### Developed by:
 
-
-\---
-
-
-
-\### Developed by:
-
-\*\*Sakshi\*\*
+Sakshi Nagalkar
 
